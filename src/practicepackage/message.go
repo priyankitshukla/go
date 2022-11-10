@@ -2,6 +2,6 @@ package practicepackage
 
 import "fmt"
 
-func message() {
+func hello() {
 	fmt.Println("Message from anoter package")
 }

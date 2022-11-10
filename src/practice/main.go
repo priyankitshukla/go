@@ -7,5 +7,5 @@ import (
 func main() {
 
 	fmt.Println("Hello world")
-	message.message()
+	practicepackage.hello()
 }
