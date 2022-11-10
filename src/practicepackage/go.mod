@@ -1,3 +1,3 @@
-module github.com/priyankitshukla/gotutorial/tree/main/src/practicepackage
+module github.com/priyankitshukla/go/src/practicepackage
 
 go 1.19
