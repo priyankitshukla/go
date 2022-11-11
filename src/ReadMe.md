@@ -7,3 +7,8 @@ Mod---
 
 go  mod init github.com/priyankitshukla/gotutorial/src/practice
  go mod tidy
+
+
+ go get command-
+
+ go get github.com/priyankitshukla/go/src/practicepackage
