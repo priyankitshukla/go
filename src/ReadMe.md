@@ -8,6 +8,9 @@ Mod---
 go  mod init github.com/priyankitshukla/gotutorial/src/practice
  go mod tidy
 
+ go get -u <-update the version 
+go mod tidy
+
 
  go get command-
 
